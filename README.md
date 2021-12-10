@@ -19,6 +19,8 @@ A modestly curated list of deep learning tools, guides, and examples. Most of th
 
 [CMU 11-747 - Neural Nets for NLP (Graham Neubig)](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ): A series of graduate-level lectures on NLP and *not just transformers*.
 
+[Advanced NLP with spaCy (Ines Montani)](https://course.spacy.io/en/): An interactive, four-part course spanning rule-based matching to neural networks, taught by one of the core developers of spaCy.
+
 # Vision
 
 [Stanford CS231n - Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/) [🐍🔥]: A very popular course that focuses on CNNs. Note that the final assignment also covers RNNs, Transformers, Saliency maps, GANs, LSTMs, and Self-Supervised Learning.
